@@ -6,7 +6,7 @@ We used javascript to write this code that created a table dynamically based upo
 
  **Automatic Table and Date Search**
 
-Created HTML web page with the UFO dataset provided in the form of an array of JavaScript objects (JSON), wrote code that appends a table to web page and then adds new rows of data for each UFO sighting.
+Created HTML web page with the given UFO dataset in the form of an array of JavaScript objects (JSON), wrote code that appends a table to web page and then adds new rows of data for each UFO sighting.
 
 * There is  column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
