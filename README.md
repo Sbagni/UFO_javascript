@@ -1,7 +1,7 @@
 **JavaScript and DOM Manipulation**
 
 
-I used javascript to write this code that created a table dynamically based upon a [dataset](StarterCode/static/js/data.js). The code also allows users to filter the table data for specific values. I used JavaScript, HTML, and CSS, and D3.js on web pages. 
+We used javascript to write this code that created a table dynamically based upon a [dataset](StarterCode/static/js/data.js). The code also allows users to filter the table data for specific values. I used JavaScript, HTML, and CSS, and D3.js on web pages. 
 
 
  **Automatic Table and Date Search**
