@@ -1,5 +1,5 @@
 // from data.js
-var tableData = data;
+var tableData = data1;
 // YOUR CODE HERE!
 var tbody = d3.select("tbody");
 console.log(data);
